@@ -66,7 +66,7 @@ nav a {
   border-radius: 10px;
 }
 
-nav a:hover {
+nav a:hover, .result-btn:hover {
   background-color:  #646cff;
   color: white;
 }
@@ -91,6 +91,7 @@ label {
 
 .result-btn {
   margin-top: 10px;
+  border: 1px solid dodgerblue;
 }
 
 .result {
